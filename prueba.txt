@@ -1,0 +1,3 @@
+## ** DOCUMENTO DE PRUEBA 1 **
+- Este es un archivo de texto que se va subir al repositorio mediante git desde Ubuntu por comando _gitcli_
+~                                                                                                            
